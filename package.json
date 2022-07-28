@@ -1,0 +1,14 @@
+{
+  "name": "nbp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "author": "Star Sheriff",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
